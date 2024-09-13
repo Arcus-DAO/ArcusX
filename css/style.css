@@ -1296,11 +1296,11 @@ justify-content: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #b4cde4, #219ebc);
+  background-image: linear-gradient(to bottom, #219ebc, white);
 }
 
 .logininfo{
-  display: block;
+  display: none;
   margin-top: 80px;
   background-color: #219ebc;
   height: 65vh;
@@ -1424,7 +1424,7 @@ justify-content: center;
 /* ------------------------- FORM DE REGISTRO ------------------------ */
 
 .register-container{
-  background-color: #007bff;
+  background-color: #219ebc;
   padding: 30px;
   border-radius: 15px;
   box-shadow: #000;
@@ -1441,7 +1441,7 @@ justify-content: center;
 .register-container p a{
   color: #FFF;
   text-decoration: none;
-  background-color: #1c34a0;
+  background-color: #2162a7;
   padding: 4px;
 }
 .form-group{
@@ -1489,4 +1489,35 @@ justify-content: center;
 .form-registro .botonregistro:hover{
   background-color: #1c34a0;
   color: #fff;
+}
+
+
+/* ------------------------ DASHBOARD DE LA PAGINA ---------------------------------------*/
+
+.dashsidebar {
+  width: 170px;
+  height: 100vh;
+  background-color: #023047;
+  color: #ecf0f1;
+  padding: 20px;
+  list-style: none;
+ 
+}
+
+.dashsidebar ul li a {
+  color: rgb(255, 255, 255);
+  font-family: Arial, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.dashfondo {
+  background-color: #219ebc;
+}
+
+.dash-window {
+  width: 400px;
+  height: 100vh;
+  background-color: #023047;
+  padding: 20px;
 }
