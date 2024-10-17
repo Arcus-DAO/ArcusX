@@ -1,9 +1,9 @@
 Arcus DAO 🌐
 Introducción
-Arcus es una plataforma web descentralizada que conecta freelancers, estudiantes y profesionales con empleadores de todo el mundo. Basada en la tecnología blockchain de ICP (Internet Computer Protocol), Arcus ofrece una experiencia más segura, transparente y sin intermediarios. Nuestra misión es empoderar a los freelancers y empleadores con herramientas modernas que faciliten la conexión, contratación y pago de servicios de manera eficiente y sin fricciones.
+Arcus es una plataforma que conecta freelancers, estudiantes y profesionales con empleadores de todo el mundo. Basada en la tecnología blockchain de ICP (Internet Computer Protocol), Arcus ofrece una experiencia más segura, transparente y sin intermediarios. Nuestra misión es empoderar a los freelancers y empleadores con herramientas modernas que faciliten la conexión, contratación y pago de servicios de manera eficiente y sin fricciones.
 
 Características Principales ✨
-- Semi-Descentralización: Gracias a la blockchain, eliminamos intermediarios, garantizando que todos los acuerdos y transacciones sean directos entre freelancers y empleadores. Escucharemos a nuestra comunidad para implementar mejoras!
+- Blockchain: Gracias a la blockchain, eliminamos intermediarios, garantizando que todos los acuerdos y transacciones sean directos entre freelancers y empleadores. Escucharemos a nuestra comunidad para implementar mejoras!
 - Contratos inteligentes: Automatizamos acuerdos laborales y pagos mediante contratos inteligentes, garantizando seguridad y cumplimiento sin intervención de terceros.
 - Pagos en criptomonedas: Soporte para pagos rápidos en criptomonedas como ICP, Bitcoin y Ethereum, eliminando comisiones altas y tiempos de espera de los sistemas financieros tradicionales.
 - Sistema de reputación inmutable: Las calificaciones y comentarios están registrados en la blockchain, asegurando que no puedan ser manipulados ni alterados.
