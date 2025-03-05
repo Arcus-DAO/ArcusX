@@ -1,3 +1,6 @@
+SPANISH VERSION:
+----------------------------------------
+
 ArcusX 🌐
 
 Introducción
@@ -32,3 +35,45 @@ En ArcusX, la seguridad es uno de los pilares fundamentales:
 - Contratos inteligentes: Automatizan los acuerdos laborales, asegurando que todas las partes cumplan con los términos antes de liberar los pagos.
 - Cifrado de datos: Toda la información y transacciones están protegidas mediante tecnologías de cifrado de última generación.
 
+
+
+
+-----------------------------
+ENGLISH VERSION
+-----------------------------
+
+
+ArcusX 🌐
+
+Introduction
+ArcusX is a platform that connects freelancers, students, and professionals with employers from around the world. Based on the Base blockchain technology, ArcusX provides a more secure, transparent, and intermediary-free experience. Our mission is to empower freelancers and employers with modern tools that facilitate connection, hiring, and payment of services in an efficient and frictionless way.
+
+Key Features ✨
+
+Blockchain: By using blockchain, we eliminate intermediaries, ensuring that all agreements and transactions are direct between freelancers and employers. We listen to our community to implement improvements!
+Smart Contracts: We automate work agreements and payments via smart contracts, ensuring security and compliance without third-party intervention.
+Immutable Reputation System: Ratings and reviews are recorded on the blockchain, ensuring they cannot be manipulated or altered.
+Global Access: Anyone can access the platform from anywhere in the world, with no financial or geographic barriers.
+Usage 🚀
+ArcusX is easy to use for both freelancers and employers. Here’s a brief overview of the key features:
+
+For Freelancers:
+Sign up and profile creation: Create a profile with your decentralized identity.
+Job search: Use advanced filters to find projects that match your skills.
+Proposal and negotiation: Send work proposals and negotiate payment terms directly with the employer.
+Automated payments: Payments are managed via smart contracts that release funds upon job completion.
+For Employers:
+Post projects: Define the requirements and conditions for the jobs you want to offer.
+Hire freelancers: Evaluate proposals and hire with security, using the immutable reputation system.
+Manage payments: Make automated payments via cryptocurrency when projects are completed.
+Project Architecture 🏛️
+ArcusX is divided into three main components:
+
+Frontend: Developed in React.js, it provides a fast and responsive user interface.
+Backend: Based on smart contracts, transactions, and data storage.
+Blockchain: Utilizes Base blockchain technology for decentralized identities, payments, and reputation.
+Security 🔐
+At ArcusX, security is one of our core principles:
+
+Smart Contracts: Automate work agreements, ensuring that all parties meet the terms before releasing payments.
+Data Encryption: All information and transactions are protected with state-of-the-art encryption technologies.
